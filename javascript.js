@@ -8,5 +8,5 @@ var Persona = {
 
 function PrimeraPersona(){
 	//imprimirem l'objecte al html
-	document.getElementById("grup").innerHTML = "Hola Soc en " +Persona.nom+" " +Persona.cognom+" i estic probant " +Persona.programa;
+	document.getElementById("grup").innerHTML = "Hola Soc en " +Persona.nom+" " +Persona.cognom+" i estic probant " +Persona.programa+" segona fase";
 }
